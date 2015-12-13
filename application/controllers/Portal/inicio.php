@@ -41,6 +41,7 @@ class Inicio extends CI_Controller {
         
         /*
          * Comentario para ver el funcionamiento del commit
+         y funciona correctamente en un pull
          */
 
 
