@@ -24,7 +24,7 @@ class Login extends CI_Controller{
 			}
 		}
 		$this->load->view('login');
-		//cambio de prueba
+		//cambio de prueba parael pull Edison
 	}
 
 	public function logout(){
