@@ -38,6 +38,10 @@ class Inicio extends CI_Controller {
 	public function simple(){
 		$this->load->view('portalWeb/simple');
 	}
+        
+        /*
+         * Comentario para ver el funcionamiento del commit
+         */
 
 
 }
