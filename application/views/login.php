@@ -25,7 +25,7 @@
         <link rel="apple-touch-icon" sizes="72x72" href="#">
         <link rel="apple-touch-icon" sizes="114x114" href="#">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Login</title>
+        <title>Login</title><!--Cambiar titulo??-->
     <center><h1 id="titulos">Bienvenido al Sistema</h1></center>
 
     <!-- Bootstrap -->
