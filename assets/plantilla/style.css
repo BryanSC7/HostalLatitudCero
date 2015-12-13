@@ -2042,3 +2042,11 @@ button:hover {
     appearance: none;
     -moz-appearance: none;
     -webkit-appearance: none; }
+  
+  #titulos {
+      color: #ffffff;
+  }
+  
+  #credenciales {
+      color: #ffffff;
+  }
