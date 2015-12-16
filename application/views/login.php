@@ -38,7 +38,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-<body background="<?php echo base_url(); ?>assets/images/hotel2.jpg" >
+<body background="<?php echo base_url(); ?>assets/images/hotel2.jpg " >
     <div class="container">
         <div class="row">
             <!-- <div class="panel panel-primary" >-->
@@ -66,7 +66,3 @@
 </body>
 </html>
 
-<div class="panel-body">
-
-
-</div>
